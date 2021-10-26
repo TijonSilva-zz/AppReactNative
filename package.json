@@ -1,0 +1,8 @@
+{
+  "name": "AppReactNative",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TijonSilva/AppReactNative.git",
+  "author": "Gabriel Tijon da Silva <75736869+TijonSilva@users.noreply.github.com>",
+  "license": "MIT"
+}
